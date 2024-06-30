@@ -1,0 +1,16 @@
+    <!-- main_menu.html -->
+
+    {% extends 'passwordapp/base.html' %}
+
+    {% block title %}Main Menu{% endblock %}
+
+    {% block content %}
+    <div class="jumbotron text-center">
+        <h1 class="display-4">Welcome to the Password Checker!</h1>
+        <p class="lead">Generate strong passwords and check the strength of your existing passwords.</p>
+        <hr class="my-4">
+        <a class="btn btn-primary btn-lg" href="{% url 'password_generator' %}" role="button">Generate Password</a>
+        <a class="btn btn-success btn-lg" href="{% url 'password_strength' %}" role="button">Check Password Strength</a>
+        <a class="btn btn-warning btn-lg" href="{% url 'password_tips' %}" role="button">Know Password Tips</a>
+    </div>
+    {% endblock %}
