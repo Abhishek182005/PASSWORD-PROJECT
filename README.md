@@ -10,7 +10,7 @@ for more info read the README of respective files<br>
 SNEAK PEAK
 </b><br>
 
-BLUEPIRNT<br>
+BLUEPRINT<br>
 ![image](https://github.com/Abhishek182005/PASSWORD-PROJECT/assets/164459641/e463edd9-3af5-4c42-834b-5df0fe659e03)
 
 
