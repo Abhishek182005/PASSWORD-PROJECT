@@ -27,6 +27,7 @@ In the Landing page it consist of three option
 <br>
 Also navbaar is provided to make the toggle between the pages easier.
 <br>
+
 <b> SNEAK PEAK <b>
 <br>
 <b>Landing page<b>
