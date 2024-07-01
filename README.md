@@ -1,5 +1,6 @@
-#PASSWORD PROJECT
-This project consist of two folder 
+# PASSWORD PROJECT
+
+<br>This project consist of two folder 
 1) Python file which acted as bluepirnt for this project<br>
 2) Website files made from Django of password.
 
