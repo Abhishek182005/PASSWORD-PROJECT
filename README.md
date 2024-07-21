@@ -5,7 +5,14 @@
 2) Website files made from Django of password.
 
 for more info read the README of respective files<br>
-
+<ul>
+  <li>
+    <a href="https://github.com/Abhishek182005/PASSWORD-PROJECT/tree/master/PASSWORD_BLUEPRINT"> For blueprint </a>
+  </li>
+  <li>
+    <a href="https://github.com/Abhishek182005/PASSWORD-PROJECT/tree/master/PASSWORD_WEBSITE"> for website</a>
+  </li>
+</ul>
 <b>
 SNEAK PEAK
 </b><br>
